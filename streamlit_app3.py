@@ -5,7 +5,6 @@ Created on Sun Feb  4 12:49:40 2024
 @author: Tajudeen
 """
 
-from streamlit_echarts import st_echarts
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt 
